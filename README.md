@@ -9,7 +9,8 @@ Beautiful Disney+ clone built with React.js and **styled components**.
 
 - Managed React app state with Redux
 - Firebase authentication
-- Firebase firestore for storing movie data
+- Firebase **firestore** for storing movie data
+- **Deployed** the app to firebase
 
 ## Set-Up locally
 
